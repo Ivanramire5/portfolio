@@ -8,9 +8,6 @@ const Navbar = () => {
         <a href="#about" className="aNav">
           Sobre mi
         </a>
-        <a href="#projects" className="aNav">
-          Trabajos anteriores
-        </a>
         <a href="#skills" className="aNav">
           Habilidades
         </a>

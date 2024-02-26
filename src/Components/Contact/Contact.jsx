@@ -43,9 +43,9 @@ const Contact = () => {
           </p>
         </div>
       </div>
+      //Formulario
       <form
-          netlify
-          name="contact"
+          name="contact" netlify
           onSubmit={handleSubmit}
           className="netlifyContact">
           <h2 className="h2Contact">

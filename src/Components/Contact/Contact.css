@@ -1,0 +1,67 @@
+
+.divContact{
+    padding-top: 30px;
+    text-align: center;
+}
+.netlifyContact{
+    padding-top: 20px;
+    text-align: center;
+}
+.h2Contact{
+    color: #7ECA9C;
+    font-size: 2.4rem;
+}
+.netlifyParrafo{
+    color: #7ECA9C;
+    font-size: 1.4rem;
+    padding-top: 10px;
+}
+.netlifyDiv{
+    text-align: center;
+    color: #7ECA9C;
+    margin-left: 20px;
+    padding: 10px;
+}
+.divNetlify{
+    text-align: center;
+    color: #7ECA9C;
+    margin-left: -52px;
+    padding: 20px;
+    
+}
+.labelMessage{
+    text-align: center;
+    color: #7ECA9C;
+    margin-left: -55px;
+    padding: 20px;
+}
+.netlifyInput{
+    background-color: #7eca9c99;
+    margin-left: 10px;
+}
+.inputContactOne{
+    background-color: #7eca9c99;
+    margin-left: 10px;
+}
+.netlifyTextarea{
+    background-color: #7eca9c99;
+    margin-left: 10px;
+}
+.contactH2{
+    color: #7ECA9C;
+    font-size: 1.6rem;
+    padding-top: 10px;
+}
+.pDireccion{
+    color: #7ECA9C;
+    font-size: 1rem;
+    padding-top: 20px;
+}
+.netlifyButton{
+    margin-bottom: 40px;
+    background-color: #40394A;
+    color: #7ECA9C;
+    font-size: 1.5rem;
+    border-color: #7ECA9C;
+    border-style: solid;
+}

@@ -1,0 +1,29 @@
+
+.divSkills{
+    padding-top: 20px;
+}
+.habilidades{
+    color: #7ECA9C;
+    font-size: 2.5rem;
+}
+.parrafoSkills{
+    color: #7ECA9C;
+    padding-top: 15px;
+    font-size: 1.6rem;
+}
+.cardsSkills{
+    display: grid;
+    text-align: left;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.h2Skills{
+    background-color: #40394A;
+    color: #7ECA9C;
+    margin-left: 50px;
+    padding: 10px;
+}
+.iconosHabilidades{
+    margin-right: 30px;
+    margin-left: 10px;
+}

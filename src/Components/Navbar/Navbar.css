@@ -1,0 +1,21 @@
+
+.divNavbar{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 50px;
+    background-color: #40394A;
+    margin-bottom: -8px;
+    margin-top: -16px;
+    justify-content: center;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-top: -20px;
+}
+
+.aNav{
+    text-decoration: none;
+    color: #4BE3AC;
+    padding-bottom: 20px;
+    font-size: 1rem;
+}
+
